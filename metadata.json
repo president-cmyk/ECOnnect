@@ -1,0 +1,7 @@
+{
+  "name": "L'ECOlibris Connect",
+  "description": "Application de gestion de planning pour les bénévoles de la recyclerie.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
